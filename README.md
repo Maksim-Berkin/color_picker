@@ -17,19 +17,15 @@ Requirements:
  - npm or yarn
 
 Installation
- 1 - Clone the repository:
-   git clone https://github.com/yourusername/color-picker-app.git
-   cd color-picker-app
+ 1 - Clone the repository: 
+   - git clone https://github.com/yourusername/color-picker-app.git
+   - cd color-picker-app
 
  2 - Install dependencies:
-   npm install
-   # OR
-   yarn install
+   npm install or yarn install
 
  3 - Launch the application:
-   npm run dev
-   # OR
-   yarn dev
+   npm run dev or yarn dev
 
  4 - Open in browser:
    http://localhost:5173
